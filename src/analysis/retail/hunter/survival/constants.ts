@@ -38,7 +38,7 @@ export const EXPLOSIVES_EXPERT_CDR = [0, 1, 2];
 
 /** Wildfire Shells */
 // CDR per Boomstick tick that hits at least one target
-export const WILDFIRE_SHELLS_CDR_PER_TICK = 2000;
+export const WILDFIRE_SHELLS_CDR_PER_TICK = 3000;
 // Internal cooldown on the CDR
 export const WILDFIRE_SHELLS_TICK_COOLDOWN = 100;
 //endregion
